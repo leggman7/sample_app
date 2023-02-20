@@ -53,3 +53,12 @@ Ruby on Rails Tutorial: Learn Web Development with Rails, 7th Edition
 Michael Hartl
 https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=0
 This material may be protected by copyright.
+
+Will need to do the following:
+
+start using render for hosting
+make a render-build.sh file
+make a render.yaml file
+
+Internal Database URL:
+postgres://admin:XXX
